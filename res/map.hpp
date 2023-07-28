@@ -4,7 +4,7 @@
 using std::vector;
 
 namespace dnd{
-  class dnd_map{
+  class dndMap{
     vector<vector<int>> tiles;
     int width, height;
   };
